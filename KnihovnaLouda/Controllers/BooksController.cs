@@ -5,6 +5,7 @@ using KnihovnaLouda.Data;
 using KnihovnaLouda.Models;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using KnihovnaLouda.Interfaces.IManager;
+using KnihovnaLouda.Manager;
 
 namespace KnihovnaLouda.Controllers
 {
@@ -138,7 +139,8 @@ namespace KnihovnaLouda.Controllers
                 bool success = await _bookManager.UpdateBookAsync(existingBook);
                 if (!success)
                 {
-                    ViewBag.Authors = new SelectList(await _bookManager.GetAllAuthorsAsync(), "Id", "Name", book.AuthorId);
+                    ViewBag.Authors = await _bookManager.GetAllAuthorsAsync();
+
                     return View(book);
                 }
             }

@@ -43,7 +43,7 @@ public class AuthorsController : Controller
 
     [HttpPost]
     [ValidateAntiForgeryToken]
-    public async Task<IActionResult> Create([Bind("Id,Name")] Author author, IFormFile photo)
+    public async Task<IActionResult> Create([Bind("Id,Name,Surname")] Author author, IFormFile photo)
     {
         if (!ModelState.IsValid)
         {

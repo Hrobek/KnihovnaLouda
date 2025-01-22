@@ -26,7 +26,7 @@ namespace KnihovnaLouda.Manager
 
         public async Task<bool> CreateAuthorAsync(Author author)
         {
-            if (string.IsNullOrEmpty(author.Name))
+            if (string.IsNullOrEmpty(author.Name) || string.IsNullOrEmpty(author.Surname))
             {
                 return false;
             }

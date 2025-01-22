@@ -154,3 +154,4 @@ D:\Programko\AspNet\KnihovnaLouda\KnihovnaLouda\obj\Debug\net8.0\refint\Knihovna
 D:\Programko\AspNet\KnihovnaLouda\KnihovnaLouda\obj\Debug\net8.0\KnihovnaLouda.pdb
 D:\Programko\AspNet\KnihovnaLouda\KnihovnaLouda\obj\Debug\net8.0\KnihovnaLouda.genruntimeconfig.cache
 D:\Programko\AspNet\KnihovnaLouda\KnihovnaLouda\obj\Debug\net8.0\ref\KnihovnaLouda.dll
+D:\Programko\AspNet\KnihovnaLouda\KnihovnaLouda\obj\Debug\net8.0\KnihovnaLouda.sourcelink.json

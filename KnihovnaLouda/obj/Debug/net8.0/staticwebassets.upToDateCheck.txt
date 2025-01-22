@@ -58,8 +58,12 @@ wwwroot\lib\jquery-validation\LICENSE.md
 wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
 wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
 wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\uploads\AuthorPhotos\29f06755-aa26-489e-90ca-04dc13ed3039_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg
+wwwroot\uploads\AuthorPhotos\930775a1-8a79-4d36-b4b8-7e8b7313a6b6_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg
+wwwroot\uploads\AuthorPhotos\ebc87da9-ff31-4033-a47d-466bdea4fea6_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg
 wwwroot\uploads\AuthorPhotos\f02c5a57-695c-42cc-80dc-0f3734e9c7a8_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg
 wwwroot\uploads\BooksPhotos\62b80568-c48f-4718-af66-22d10249cf68_cover_202413.jpg
+wwwroot\uploads\BooksPhotos\ade9c041-f8c9-4075-b207-358a83f2a924_dasenka.jpg
 wwwroot\uploads\BooksPhotos\b8c390b2-a781-4b15-bb7a-60f9103ca848_cover_202413.jpg
 wwwroot\uploads\BooksPhotos\bc4f9dc9-4733-4692-8066-e42bcb732a89_dasenka.jpg
 wwwroot\uploads\BooksPhotos\bf6cec19-f1a5-4848-a50b-a7c9d12a0a43_dasenka.jpg

@@ -32,7 +32,7 @@
                     <a asp-action="Details" asp-route-id="@item.Id">@item.Title </a>
                 </td>
                 <td>
-                    @item.Author?.Name
+					@item.Author?.Name @item.Author?.Surname
                 </td>
                 <td>
                     @item.Description
