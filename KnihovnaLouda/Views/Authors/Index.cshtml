@@ -1,0 +1,50 @@
+﻿@using System.Security.Claims
+@model IEnumerable<KnihovnaLouda.Models.Author>
+@{
+    ViewData["Title"] = "Autoři";
+
+
+    var currentUserEmail = User.FindFirstValue(ClaimTypes.Email);
+    // Kontrola, zda je uživatel admin (pokud role existují)
+    var isAdmin = User.IsInRole(UserRole.Admin);
+}
+
+<h1>Autoři</h1>
+
+<div class="text-center mb-3">
+    @if (User.IsInRole(UserRole.Admin))
+    {
+        <a asp-action="Create" class="btn btn-primary">Nový autor</a>
+    }
+</div>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Název</th>
+            @if (User.IsInRole(UserRole.Admin))
+                    {
+            <th>Akce</th>
+                    }
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    <a asp-action="Details" asp-route-id="@item.Id">@item.Name </a>
+                </td>
+                    @if (User.IsInRole(UserRole.Admin))
+                    {
+                        <td>
+                            <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Odstranit</a>
+                            <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning">Editovat</a>
+                        </td>
+                    }
+                
+            </tr>
+        }
+    </tbody>
+</table>
+

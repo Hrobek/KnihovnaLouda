@@ -1,0 +1,15 @@
+﻿using KnihovnaLouda.Models;
+
+namespace KnihovnaLouda.Interfaces.IManager
+{
+    public interface IBookManager
+    {
+        Task<List<Book>> GetAllBooksAsync();
+        Task<Book?> GetBookByIdAsync(int id);
+        Task<bool> CreateBookAsync(Book book);
+        Task<bool> UpdateBookAsync(Book book);
+        Task<bool> DeleteBookAsync(int id);
+        Task<List<Author>> GetAllAuthorsAsync();
+        Task<bool> ExistsAsync(int id);
+    }
+}

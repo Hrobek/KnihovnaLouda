@@ -1,0 +1,79 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>@ViewData["Title"] - Louda</title>
+	<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+	<link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+	<link rel="stylesheet" href="~/KnihovnaLouda.styles.css" asp-append-version="true" />
+</head>
+<body>
+	<header>
+		<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+			<div class="container-fluid">
+				<a class="navbar-brand" asp-controller="Home" asp-action="Index">Knihovna</a>
+				<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+					<span class="navbar-toggler-icon"></span>
+				</button>
+				<div class="collapse navbar-collapse" id="navbarNav">
+					<ul class="navbar-nav me-auto mb-2 mb-lg-0">
+						<li class="nav-item ms-5">
+							<a asp-controller="Books" asp-action="Index" class="nav-link">Knihy</a>
+						</li>
+						<li class="nav-item">
+							<a asp-controller="Authors" asp-action="Index" class="nav-link">Autoři</a>
+						</li>
+						@if (User.IsInRole(UserRole.Admin))
+						{
+							<li class="nav-item">
+								<a asp-controller="Reservations" asp-action="Create" class="nav-link">Vytvořit rezervaci</a>
+							</li>
+						}
+						@if (User.Identity.IsAuthenticated)
+						{
+							<li class="nav-item">
+								<a asp-controller="Reservations" asp-action="Details" class="nav-link">Moje Rezervace</a>
+							</li>
+						}
+					</ul>
+					<ul class="navbar-nav">
+						@if (!User.Identity.IsAuthenticated)
+						{
+							<li class="nav-item">
+								<a asp-controller="Account" asp-action="Login" class="nav-link">Přihlásit</a>
+							</li>
+							<li class="nav-item">
+								<a asp-controller="Account" asp-action="Register" class="nav-link">Registrovat</a>
+							</li>
+						}
+						@if (User.Identity.IsAuthenticated)
+						{
+							<li class="nav-item">
+								<a asp-controller="Account" asp-action="Logout" class="nav-link">Odhlásit se</a>
+							</li>
+						}
+					</ul>
+				</div>
+			</div>
+		</nav>
+	</header>
+	<div class="container">
+		<main role="main" class="pb-3">
+			@RenderBody()
+		</main>
+	</div>
+
+	<footer class="border-top footer text-muted text-center">
+		<div class="container ">
+			&copy; @DateTime.Now.Year - Knihovna
+		</div>
+	</footer>
+
+	<script src="~/lib/jquery/dist/jquery.min.js"></script>
+	<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+	<script src="~/js/site.js" asp-append-version="true"></script>
+
+	@await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

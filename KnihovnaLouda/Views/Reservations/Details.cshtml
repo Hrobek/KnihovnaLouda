@@ -1,0 +1,28 @@
+﻿@model IEnumerable<KnihovnaLouda.Models.Reservation>
+
+@{
+    ViewData["Title"] = "Moje rezervace";
+}
+
+<h1>Moje rezervace</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Kniha</th>
+            <th>Datum od</th>
+            <th>Datum do</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var reservation in Model)
+        {
+            <tr>
+                <td>@reservation.Book.Title</td>
+                <td>@reservation.StartDate.ToShortDateString()</td>
+                <td>@reservation.EndDate.ToShortDateString()</td>
+            </tr>
+        }
+    </tbody>
+</table>
+

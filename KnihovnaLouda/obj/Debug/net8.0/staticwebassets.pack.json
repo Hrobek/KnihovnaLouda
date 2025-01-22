@@ -1,0 +1,289 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\KnihovnaLouda.bundle.scp.css",
+      "PackagePath": "staticwebassets\\KnihovnaLouda.uskl49lciy.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\f02c5a57-695c-42cc-80dc-0f3734e9c7a8_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "PackagePath": "staticwebassets\\uploads\\AuthorPhotos\\f02c5a57-695c-42cc-80dc-0f3734e9c7a8_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\BooksPhotos\\62b80568-c48f-4718-af66-22d10249cf68_cover_202413.jpg",
+      "PackagePath": "staticwebassets\\uploads\\BooksPhotos\\62b80568-c48f-4718-af66-22d10249cf68_cover_202413.jpg"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\BooksPhotos\\b8c390b2-a781-4b15-bb7a-60f9103ca848_cover_202413.jpg",
+      "PackagePath": "staticwebassets\\uploads\\BooksPhotos\\b8c390b2-a781-4b15-bb7a-60f9103ca848_cover_202413.jpg"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\BooksPhotos\\bc4f9dc9-4733-4692-8066-e42bcb732a89_dasenka.jpg",
+      "PackagePath": "staticwebassets\\uploads\\BooksPhotos\\bc4f9dc9-4733-4692-8066-e42bcb732a89_dasenka.jpg"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\BooksPhotos\\bf6cec19-f1a5-4848-a50b-a7c9d12a0a43_dasenka.jpg",
+      "PackagePath": "staticwebassets\\uploads\\BooksPhotos\\bf6cec19-f1a5-4848-a50b-a7c9d12a0a43_dasenka.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.KnihovnaLouda.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.KnihovnaLouda.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.KnihovnaLouda.props",
+      "PackagePath": "build\\KnihovnaLouda.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.KnihovnaLouda.props",
+      "PackagePath": "buildMultiTargeting\\KnihovnaLouda.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.KnihovnaLouda.props",
+      "PackagePath": "buildTransitive\\KnihovnaLouda.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

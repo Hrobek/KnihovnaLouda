@@ -1,0 +1,51 @@
+﻿@model IEnumerable<KnihovnaLouda.Models.Book>
+@{
+    ViewData["Title"] = "Knihy";
+}
+
+<h1>Knihy</h1>
+
+<div class="text-center mb-3">
+    @if (User.IsInRole(UserRole.Admin))
+    {
+        <a asp-action="Create" class="btn btn-primary">Nová kniha</a>
+    }
+</div>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Název</th>
+            <th>Autor</th>
+            <th>Popis</th>
+            @if (User.IsInRole(UserRole.Admin))
+                    {
+            <th>Akce</th>
+                    }
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    <a asp-action="Details" asp-route-id="@item.Id">@item.Title </a>
+                </td>
+                <td>
+                    @item.Author?.Name
+                </td>
+                <td>
+                    @item.Description
+                </td>
+                    @if (User.IsInRole(UserRole.Admin))
+                    {
+                    <td>
+                        <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Odstranit</a>
+                        <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning">Editovat</a>
+                    </td>
+                    }       
+            </tr>
+        }
+    </tbody>
+</table>
+
