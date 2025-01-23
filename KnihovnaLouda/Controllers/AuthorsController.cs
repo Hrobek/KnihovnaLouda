@@ -1,6 +1,7 @@
 ﻿using KnihovnaLouda.Interfaces.IManager;
 using KnihovnaLouda.Manager;
 using KnihovnaLouda.Models;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -65,32 +66,33 @@ public class AuthorsController : Controller
         return RedirectToAction(nameof(Index));
     }
 
-    public async Task<IActionResult> Edit(int? id)
+    public async Task<IActionResult> Edit(int id)
     {
-        if (id == null)
-        {
-            return NotFound();
-        }
-
-        var author = await _authorManager.GetAuthorByIdAsync(id.Value);
-        if (author == null)
-        {
-            return NotFound();
-        }
-
+        var author = await _authorManager.GetAuthorByIdAsync(id);
+        if (author == null) return NotFound();
         return View(author);
     }
 
     [HttpPost]
     [ValidateAntiForgeryToken]
-    public async Task<IActionResult> Edit(int id, [Bind("Id,Name,Surname,PhotoPath")] Author author, IFormFile photo)
+    public async Task<IActionResult> Edit(int id, [Bind("Id,Name,Surname,PhotoPath")] Author author, IFormFile? photo)
     {
         if (id != author.Id) return NotFound();
 
-        if (!ModelState.IsValid) return View(author);
+        var existingAuthor = await _authorManager.GetAuthorByIdAsync(id);
+        if (existingAuthor == null) return NotFound();
+
+        // Pokud uživatel nenahrál novou fotku, zachováme starou
+        if (photo == null)
+        {
+            author.PhotoPath = existingAuthor.PhotoPath;
+        }
 
         bool success = await _authorManager.UpdateAuthorAsync(author, photo);
-        if (!success) return View(author);
+        if (!success)
+        {
+            return View(author);
+        }
 
         return RedirectToAction(nameof(Index));
     }

@@ -1,1 +1,2 @@
-D:\Programko\AspNet\KnihovnaLouda\KnihovnaLouda\wwwroot\uploads\AuthorPhotos\091a70fe-f5c8-4fc3-9001-b84bfbb0132b_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg
+D:\Programko\AspNet\KnihovnaLouda\KnihovnaLouda\wwwroot\uploads\AuthorPhotos\90324b2f-fe95-4326-aff5-e6b47cd44cd4_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg
+D:\Programko\AspNet\KnihovnaLouda\KnihovnaLouda\wwwroot\uploads\BooksPhotos\5a8c4b13-0e05-48fc-a468-1bf9ac8a235c_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg

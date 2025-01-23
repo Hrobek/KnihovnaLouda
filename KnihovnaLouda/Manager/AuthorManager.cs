@@ -41,13 +41,18 @@ namespace KnihovnaLouda.Manager
         public async Task<bool> UpdateAuthorAsync(Author author, IFormFile? photo)
         {
             var existingAuthor = await _authorRepository.GetByIdAsync(author.Id);
-            if (existingAuthor == null) return false;
+            if (existingAuthor == null) throw new Exception("User not found.");
 
             if (photo != null)
             {
                 _photoManager.DeletePhoto(existingAuthor.PhotoPath);
                 author.PhotoPath = await _photoManager.SavePhotoAsync(photo, "AuthorPhotos");
             }
+            else
+            {
+                author.PhotoPath = existingAuthor.PhotoPath;
+            }
+
 
             existingAuthor.Name = author.Name;
             existingAuthor.Surname = author.Surname;

@@ -93,9 +93,18 @@ namespace KnihovnaLouda.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, Book book, IFormFile photo)
+        public async Task<IActionResult> Edit(int id, Book book, IFormFile? photo)
         {
             if (id != book.Id) return NotFound();
+
+            var existingBook = await _bookManager.GetBookByIdAsync(id);
+            if (existingBook == null) return NotFound();
+
+            // Pokud uživatel nenahrál novou fotku, zachováme starou
+            if (photo == null)
+            {
+                book.PhotoPath = existingBook.PhotoPath;
+            }
 
             if (!ModelState.IsValid)
             {

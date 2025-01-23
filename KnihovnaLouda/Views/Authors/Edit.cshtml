@@ -8,7 +8,7 @@
 
 <div class="row justify-content-center">
 	<div class="col-md-8">
-		<form asp-action="Edit" class="p-4 border rounded shadow-sm bg-light" enctype="multipart/form-data">
+		<form asp-action="Edit" method="post" class="p-4 border rounded shadow-sm bg-light" enctype="multipart/form-data">
 			<div asp-validation-summary="ModelOnly" class="text-danger"></div>
 			<div class="row">
 				<div class="col-md-6">
@@ -17,6 +17,7 @@
 						<input asp-for="Name" class="form-control" />
 						<span asp-validation-for="Name" class="text-danger"></span>
 					</div>
+					<input type="hidden" asp-for="Id" />
 					<div class="form-group mb-3">
 						<label asp-for="Surname" class="control-label"></label>
 						<input asp-for="Surname" class="form-control" />
@@ -24,15 +25,15 @@
 					</div>
 				</div>
 				<div class="form-group">
-					<label for="photo">Book Cover Photo</label>
+					<label for="photo">Fotka autora</label>
 					<input type="file" id="photo" name="photo" class="form-control" />
 				</div>
 
 				@if (Model.PhotoPath != null)
 				{
 					<div>
-						<p>Current photo:</p>
-						<img src="@Url.Content(Model.PhotoPath)" alt="Book Cover" style="width: 200px;" />
+						<p>Aktuální foto:</p>
+						<img src="@Url.Content(Model.PhotoPath)" alt="Profile picture" style="width: 200px;" />
 					</div>
 				}
 				<div class="form-group text-center">

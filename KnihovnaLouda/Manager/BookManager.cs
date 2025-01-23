@@ -52,7 +52,6 @@ namespace KnihovnaLouda.Manager
                 book.PhotoPath = existingBook.PhotoPath;
             }
 
-       
             existingBook.Title = book.Title;
             existingBook.Description = book.Description;
             existingBook.Published = book.Published;

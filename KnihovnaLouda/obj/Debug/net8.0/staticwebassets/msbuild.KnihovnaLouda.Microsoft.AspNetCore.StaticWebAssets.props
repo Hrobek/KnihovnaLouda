@@ -1098,30 +1098,30 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\LICENSE.txt'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\AuthorPhotos\4f75a521-8e44-4738-86a2-8c5a3d058de8_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\AuthorPhotos\0fdf3ca3-1368-4122-9117-085b5ff3f9d5_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>KnihovnaLouda</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/KnihovnaLouda</BasePath>
-      <RelativePath>uploads/AuthorPhotos/4f75a521-8e44-4738-86a2-8c5a3d058de8_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg</RelativePath>
+      <RelativePath>uploads/AuthorPhotos/0fdf3ca3-1368-4122-9117-085b5ff3f9d5_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>ktois57kvh</Fingerprint>
-      <Integrity>2HG2vfUzqarXzSPQtrtfuv1hwIPs2J9vqGk5KENK6+A=</Integrity>
+      <Fingerprint>vijkuu1g4z</Fingerprint>
+      <Integrity>18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\AuthorPhotos\4f75a521-8e44-4738-86a2-8c5a3d058de8_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\AuthorPhotos\0fdf3ca3-1368-4122-9117-085b5ff3f9d5_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\BooksPhotos\5a8c4b13-0e05-48fc-a468-1bf9ac8a235c_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\AuthorPhotos\1dbc3604-b8e7-4981-adad-35466696887e_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>KnihovnaLouda</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/KnihovnaLouda</BasePath>
-      <RelativePath>uploads/BooksPhotos/5a8c4b13-0e05-48fc-a468-1bf9ac8a235c_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg</RelativePath>
+      <RelativePath>uploads/AuthorPhotos/1dbc3604-b8e7-4981-adad-35466696887e_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -1132,7 +1132,331 @@
       <Integrity>2HG2vfUzqarXzSPQtrtfuv1hwIPs2J9vqGk5KENK6+A=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\BooksPhotos\5a8c4b13-0e05-48fc-a468-1bf9ac8a235c_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\AuthorPhotos\1dbc3604-b8e7-4981-adad-35466696887e_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\AuthorPhotos\2260b915-accc-46ce-9488-0aff624eb04b_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>KnihovnaLouda</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/KnihovnaLouda</BasePath>
+      <RelativePath>uploads/AuthorPhotos/2260b915-accc-46ce-9488-0aff624eb04b_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ktois57kvh</Fingerprint>
+      <Integrity>2HG2vfUzqarXzSPQtrtfuv1hwIPs2J9vqGk5KENK6+A=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\AuthorPhotos\2260b915-accc-46ce-9488-0aff624eb04b_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\AuthorPhotos\353f3fbe-9332-49a5-9ef9-94e3c6bdbf18_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>KnihovnaLouda</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/KnihovnaLouda</BasePath>
+      <RelativePath>uploads/AuthorPhotos/353f3fbe-9332-49a5-9ef9-94e3c6bdbf18_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ktois57kvh</Fingerprint>
+      <Integrity>2HG2vfUzqarXzSPQtrtfuv1hwIPs2J9vqGk5KENK6+A=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\AuthorPhotos\353f3fbe-9332-49a5-9ef9-94e3c6bdbf18_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\AuthorPhotos\521abc7b-8869-4cf0-ae10-674362c059ff_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>KnihovnaLouda</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/KnihovnaLouda</BasePath>
+      <RelativePath>uploads/AuthorPhotos/521abc7b-8869-4cf0-ae10-674362c059ff_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>vijkuu1g4z</Fingerprint>
+      <Integrity>18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\AuthorPhotos\521abc7b-8869-4cf0-ae10-674362c059ff_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\AuthorPhotos\6b4123e6-cac2-4eaa-82a9-9887a8ff8645_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>KnihovnaLouda</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/KnihovnaLouda</BasePath>
+      <RelativePath>uploads/AuthorPhotos/6b4123e6-cac2-4eaa-82a9-9887a8ff8645_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>vijkuu1g4z</Fingerprint>
+      <Integrity>18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\AuthorPhotos\6b4123e6-cac2-4eaa-82a9-9887a8ff8645_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\AuthorPhotos\6bdebd64-598e-433d-b3f3-45189589dd68_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>KnihovnaLouda</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/KnihovnaLouda</BasePath>
+      <RelativePath>uploads/AuthorPhotos/6bdebd64-598e-433d-b3f3-45189589dd68_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>vijkuu1g4z</Fingerprint>
+      <Integrity>18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\AuthorPhotos\6bdebd64-598e-433d-b3f3-45189589dd68_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\AuthorPhotos\76265525-e33a-4c8c-9e6a-0f2e8c59aa35_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>KnihovnaLouda</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/KnihovnaLouda</BasePath>
+      <RelativePath>uploads/AuthorPhotos/76265525-e33a-4c8c-9e6a-0f2e8c59aa35_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>vijkuu1g4z</Fingerprint>
+      <Integrity>18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\AuthorPhotos\76265525-e33a-4c8c-9e6a-0f2e8c59aa35_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\AuthorPhotos\ae5df935-f2e4-42b6-bd31-cb730a94fe73_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>KnihovnaLouda</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/KnihovnaLouda</BasePath>
+      <RelativePath>uploads/AuthorPhotos/ae5df935-f2e4-42b6-bd31-cb730a94fe73_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ktois57kvh</Fingerprint>
+      <Integrity>2HG2vfUzqarXzSPQtrtfuv1hwIPs2J9vqGk5KENK6+A=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\AuthorPhotos\ae5df935-f2e4-42b6-bd31-cb730a94fe73_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\AuthorPhotos\aef4b838-591e-47d8-af9b-1ab727bf5a91_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>KnihovnaLouda</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/KnihovnaLouda</BasePath>
+      <RelativePath>uploads/AuthorPhotos/aef4b838-591e-47d8-af9b-1ab727bf5a91_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>vijkuu1g4z</Fingerprint>
+      <Integrity>18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\AuthorPhotos\aef4b838-591e-47d8-af9b-1ab727bf5a91_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\AuthorPhotos\c0eb9475-2f37-4f94-95c4-527bb24876b3_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>KnihovnaLouda</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/KnihovnaLouda</BasePath>
+      <RelativePath>uploads/AuthorPhotos/c0eb9475-2f37-4f94-95c4-527bb24876b3_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>vijkuu1g4z</Fingerprint>
+      <Integrity>18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\AuthorPhotos\c0eb9475-2f37-4f94-95c4-527bb24876b3_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\AuthorPhotos\c2afe8ae-9cdb-4c90-bfdd-ddb204c261a1_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>KnihovnaLouda</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/KnihovnaLouda</BasePath>
+      <RelativePath>uploads/AuthorPhotos/c2afe8ae-9cdb-4c90-bfdd-ddb204c261a1_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>vijkuu1g4z</Fingerprint>
+      <Integrity>18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\AuthorPhotos\c2afe8ae-9cdb-4c90-bfdd-ddb204c261a1_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\AuthorPhotos\cefd498c-3cb4-444c-9f9e-0f65cf6f29bb_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>KnihovnaLouda</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/KnihovnaLouda</BasePath>
+      <RelativePath>uploads/AuthorPhotos/cefd498c-3cb4-444c-9f9e-0f65cf6f29bb_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>vijkuu1g4z</Fingerprint>
+      <Integrity>18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\AuthorPhotos\cefd498c-3cb4-444c-9f9e-0f65cf6f29bb_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\BooksPhotos\35814d6d-2809-477f-911a-8d01c49b4a83_dasenka.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>KnihovnaLouda</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/KnihovnaLouda</BasePath>
+      <RelativePath>uploads/BooksPhotos/35814d6d-2809-477f-911a-8d01c49b4a83_dasenka.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>vt1c39m0fj</Fingerprint>
+      <Integrity>vWT0BKh4rzXGf5HcBU8camkRIWNZgOxT/ktiWnEHfOY=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\BooksPhotos\35814d6d-2809-477f-911a-8d01c49b4a83_dasenka.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\BooksPhotos\492446d6-935c-4a1f-9828-967b26aaa0ce_dasenka.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>KnihovnaLouda</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/KnihovnaLouda</BasePath>
+      <RelativePath>uploads/BooksPhotos/492446d6-935c-4a1f-9828-967b26aaa0ce_dasenka.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>vt1c39m0fj</Fingerprint>
+      <Integrity>vWT0BKh4rzXGf5HcBU8camkRIWNZgOxT/ktiWnEHfOY=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\BooksPhotos\492446d6-935c-4a1f-9828-967b26aaa0ce_dasenka.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\BooksPhotos\59ad7012-3db7-440e-815a-91da692a55fa_dasenka.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>KnihovnaLouda</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/KnihovnaLouda</BasePath>
+      <RelativePath>uploads/BooksPhotos/59ad7012-3db7-440e-815a-91da692a55fa_dasenka.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>vt1c39m0fj</Fingerprint>
+      <Integrity>vWT0BKh4rzXGf5HcBU8camkRIWNZgOxT/ktiWnEHfOY=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\BooksPhotos\59ad7012-3db7-440e-815a-91da692a55fa_dasenka.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\BooksPhotos\85819945-bfa1-45c2-9d5c-4f8e087b9608_dasenka.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>KnihovnaLouda</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/KnihovnaLouda</BasePath>
+      <RelativePath>uploads/BooksPhotos/85819945-bfa1-45c2-9d5c-4f8e087b9608_dasenka.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>vt1c39m0fj</Fingerprint>
+      <Integrity>vWT0BKh4rzXGf5HcBU8camkRIWNZgOxT/ktiWnEHfOY=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\BooksPhotos\85819945-bfa1-45c2-9d5c-4f8e087b9608_dasenka.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\BooksPhotos\92bb438c-63c9-4d58-a106-3db75edd7860_dasenka.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>KnihovnaLouda</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/KnihovnaLouda</BasePath>
+      <RelativePath>uploads/BooksPhotos/92bb438c-63c9-4d58-a106-3db75edd7860_dasenka.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>vt1c39m0fj</Fingerprint>
+      <Integrity>vWT0BKh4rzXGf5HcBU8camkRIWNZgOxT/ktiWnEHfOY=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\BooksPhotos\92bb438c-63c9-4d58-a106-3db75edd7860_dasenka.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\BooksPhotos\c9fb19cd-4587-4d49-8b98-3efe775390f5_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>KnihovnaLouda</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/KnihovnaLouda</BasePath>
+      <RelativePath>uploads/BooksPhotos/c9fb19cd-4587-4d49-8b98-3efe775390f5_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ktois57kvh</Fingerprint>
+      <Integrity>2HG2vfUzqarXzSPQtrtfuv1hwIPs2J9vqGk5KENK6+A=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\BooksPhotos\c9fb19cd-4587-4d49-8b98-3efe775390f5_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\BooksPhotos\d4afe27f-35e6-4f45-a11c-420177ff7501_dasenka.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>KnihovnaLouda</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/KnihovnaLouda</BasePath>
+      <RelativePath>uploads/BooksPhotos/d4afe27f-35e6-4f45-a11c-420177ff7501_dasenka.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>vt1c39m0fj</Fingerprint>
+      <Integrity>vWT0BKh4rzXGf5HcBU8camkRIWNZgOxT/ktiWnEHfOY=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\BooksPhotos\d4afe27f-35e6-4f45-a11c-420177ff7501_dasenka.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
 </Project>

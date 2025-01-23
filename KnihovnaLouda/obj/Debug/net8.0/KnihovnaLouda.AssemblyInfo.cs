@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KnihovnaLouda")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0cf340911812fa220b104c1123e528c2d2d0bd0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33a8f3d62cde1656506b55ec643dfc6a9daa84dd")]
 [assembly: System.Reflection.AssemblyProductAttribute("KnihovnaLouda")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KnihovnaLouda")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
