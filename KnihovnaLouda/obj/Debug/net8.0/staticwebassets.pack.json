@@ -245,12 +245,64 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\0b76095c-783d-4d20-b35d-291d5db324b4_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "PackagePath": "staticwebassets\\uploads\\AuthorPhotos\\0b76095c-783d-4d20-b35d-291d5db324b4_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\12c91876-dbb6-41db-80ee-0887748c711a_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "PackagePath": "staticwebassets\\uploads\\AuthorPhotos\\12c91876-dbb6-41db-80ee-0887748c711a_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\199f9c80-d6b9-475e-ad51-a767e982036c_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "PackagePath": "staticwebassets\\uploads\\AuthorPhotos\\199f9c80-d6b9-475e-ad51-a767e982036c_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\27d960b9-2481-4412-ad39-8f2087358983_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg",
+      "PackagePath": "staticwebassets\\uploads\\AuthorPhotos\\27d960b9-2481-4412-ad39-8f2087358983_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg"
+    },
+    {
       "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\29f06755-aa26-489e-90ca-04dc13ed3039_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg",
       "PackagePath": "staticwebassets\\uploads\\AuthorPhotos\\29f06755-aa26-489e-90ca-04dc13ed3039_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg"
     },
     {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\3c950371-9ded-4f68-ae68-e36545f01fb1_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "PackagePath": "staticwebassets\\uploads\\AuthorPhotos\\3c950371-9ded-4f68-ae68-e36545f01fb1_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\48c3fb45-ec18-49fc-924b-b384ba55ea10_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "PackagePath": "staticwebassets\\uploads\\AuthorPhotos\\48c3fb45-ec18-49fc-924b-b384ba55ea10_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\65f6ab01-aaf4-44b9-ac9b-6897660f7975_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "PackagePath": "staticwebassets\\uploads\\AuthorPhotos\\65f6ab01-aaf4-44b9-ac9b-6897660f7975_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\6e020d72-5cd3-4f80-9fa6-c07bc6bafd73_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "PackagePath": "staticwebassets\\uploads\\AuthorPhotos\\6e020d72-5cd3-4f80-9fa6-c07bc6bafd73_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\72c6af2f-46ec-4aaa-917b-ef8541658e57_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "PackagePath": "staticwebassets\\uploads\\AuthorPhotos\\72c6af2f-46ec-4aaa-917b-ef8541658e57_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\793eca5e-5aec-45a5-ac10-9f2e97835884_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "PackagePath": "staticwebassets\\uploads\\AuthorPhotos\\793eca5e-5aec-45a5-ac10-9f2e97835884_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg"
+    },
+    {
       "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\930775a1-8a79-4d36-b4b8-7e8b7313a6b6_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg",
       "PackagePath": "staticwebassets\\uploads\\AuthorPhotos\\930775a1-8a79-4d36-b4b8-7e8b7313a6b6_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\b165569a-93b2-4e3f-a63b-863c7c7da62f_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "PackagePath": "staticwebassets\\uploads\\AuthorPhotos\\b165569a-93b2-4e3f-a63b-863c7c7da62f_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\b2cec137-6abe-49ea-972b-77f39c5e1ea9_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "PackagePath": "staticwebassets\\uploads\\AuthorPhotos\\b2cec137-6abe-49ea-972b-77f39c5e1ea9_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\dc48588b-948b-4ba0-9283-bba91c8eb633_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg",
+      "PackagePath": "staticwebassets\\uploads\\AuthorPhotos\\dc48588b-948b-4ba0-9283-bba91c8eb633_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg"
     },
     {
       "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\ebc87da9-ff31-4033-a47d-466bdea4fea6_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg",
@@ -261,12 +313,20 @@
       "PackagePath": "staticwebassets\\uploads\\AuthorPhotos\\f02c5a57-695c-42cc-80dc-0f3734e9c7a8_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg"
     },
     {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\fc9fe2ec-2281-4d8d-aedc-bd78756c4e6d_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg",
+      "PackagePath": "staticwebassets\\uploads\\AuthorPhotos\\fc9fe2ec-2281-4d8d-aedc-bd78756c4e6d_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\BooksPhotos\\01d05dc3-b42b-4b55-a7d8-256d1489f031_dasenka.jpg",
+      "PackagePath": "staticwebassets\\uploads\\BooksPhotos\\01d05dc3-b42b-4b55-a7d8-256d1489f031_dasenka.jpg"
+    },
+    {
       "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\BooksPhotos\\62b80568-c48f-4718-af66-22d10249cf68_cover_202413.jpg",
       "PackagePath": "staticwebassets\\uploads\\BooksPhotos\\62b80568-c48f-4718-af66-22d10249cf68_cover_202413.jpg"
     },
     {
-      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\BooksPhotos\\ade9c041-f8c9-4075-b207-358a83f2a924_dasenka.jpg",
-      "PackagePath": "staticwebassets\\uploads\\BooksPhotos\\ade9c041-f8c9-4075-b207-358a83f2a924_dasenka.jpg"
+      "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\BooksPhotos\\b27daf00-c409-4922-8611-2db593d89674_dasenka.jpg",
+      "PackagePath": "staticwebassets\\uploads\\BooksPhotos\\b27daf00-c409-4922-8611-2db593d89674_dasenka.jpg"
     },
     {
       "Id": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\BooksPhotos\\b8c390b2-a781-4b15-bb7a-60f9103ca848_cover_202413.jpg",

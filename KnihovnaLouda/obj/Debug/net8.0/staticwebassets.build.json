@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "eoOZld2M6ptylY3xF3qeXgkWW33mv15EOXgtTE2L6eA=",
+  "Hash": "CalKzjEouNP7eNzGJOO3oTodbQiIeLqXiYU+oAiAMnk=",
   "Source": "KnihovnaLouda",
   "BasePath": "_content/KnihovnaLouda",
   "Mode": "Default",
@@ -2579,6 +2579,90 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
+      "Identity": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\0b76095c-783d-4d20-b35d-291d5db324b4_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "SourceId": "KnihovnaLouda",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\",
+      "BasePath": "_content/KnihovnaLouda",
+      "RelativePath": "uploads/AuthorPhotos/0b76095c-783d-4d20-b35d-291d5db324b4_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped)#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vijkuu1g4z",
+      "Integrity": "18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\AuthorPhotos\\0b76095c-783d-4d20-b35d-291d5db324b4_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg"
+    },
+    {
+      "Identity": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\12c91876-dbb6-41db-80ee-0887748c711a_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "SourceId": "KnihovnaLouda",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\",
+      "BasePath": "_content/KnihovnaLouda",
+      "RelativePath": "uploads/AuthorPhotos/12c91876-dbb6-41db-80ee-0887748c711a_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped)#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vijkuu1g4z",
+      "Integrity": "18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\AuthorPhotos\\12c91876-dbb6-41db-80ee-0887748c711a_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg"
+    },
+    {
+      "Identity": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\199f9c80-d6b9-475e-ad51-a767e982036c_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "SourceId": "KnihovnaLouda",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\",
+      "BasePath": "_content/KnihovnaLouda",
+      "RelativePath": "uploads/AuthorPhotos/199f9c80-d6b9-475e-ad51-a767e982036c_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped)#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vijkuu1g4z",
+      "Integrity": "18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\AuthorPhotos\\199f9c80-d6b9-475e-ad51-a767e982036c_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg"
+    },
+    {
+      "Identity": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\27d960b9-2481-4412-ad39-8f2087358983_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg",
+      "SourceId": "KnihovnaLouda",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\",
+      "BasePath": "_content/KnihovnaLouda",
+      "RelativePath": "uploads/AuthorPhotos/27d960b9-2481-4412-ad39-8f2087358983_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ktois57kvh",
+      "Integrity": "2HG2vfUzqarXzSPQtrtfuv1hwIPs2J9vqGk5KENK6+A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\AuthorPhotos\\27d960b9-2481-4412-ad39-8f2087358983_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg"
+    },
+    {
       "Identity": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\29f06755-aa26-489e-90ca-04dc13ed3039_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg",
       "SourceId": "KnihovnaLouda",
       "SourceType": "Discovered",
@@ -2600,6 +2684,132 @@
       "OriginalItemSpec": "wwwroot\\uploads\\AuthorPhotos\\29f06755-aa26-489e-90ca-04dc13ed3039_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg"
     },
     {
+      "Identity": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\3c950371-9ded-4f68-ae68-e36545f01fb1_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "SourceId": "KnihovnaLouda",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\",
+      "BasePath": "_content/KnihovnaLouda",
+      "RelativePath": "uploads/AuthorPhotos/3c950371-9ded-4f68-ae68-e36545f01fb1_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped)#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vijkuu1g4z",
+      "Integrity": "18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\AuthorPhotos\\3c950371-9ded-4f68-ae68-e36545f01fb1_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg"
+    },
+    {
+      "Identity": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\48c3fb45-ec18-49fc-924b-b384ba55ea10_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "SourceId": "KnihovnaLouda",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\",
+      "BasePath": "_content/KnihovnaLouda",
+      "RelativePath": "uploads/AuthorPhotos/48c3fb45-ec18-49fc-924b-b384ba55ea10_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped)#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vijkuu1g4z",
+      "Integrity": "18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\AuthorPhotos\\48c3fb45-ec18-49fc-924b-b384ba55ea10_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg"
+    },
+    {
+      "Identity": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\65f6ab01-aaf4-44b9-ac9b-6897660f7975_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "SourceId": "KnihovnaLouda",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\",
+      "BasePath": "_content/KnihovnaLouda",
+      "RelativePath": "uploads/AuthorPhotos/65f6ab01-aaf4-44b9-ac9b-6897660f7975_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped)#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vijkuu1g4z",
+      "Integrity": "18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\AuthorPhotos\\65f6ab01-aaf4-44b9-ac9b-6897660f7975_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg"
+    },
+    {
+      "Identity": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\6e020d72-5cd3-4f80-9fa6-c07bc6bafd73_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "SourceId": "KnihovnaLouda",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\",
+      "BasePath": "_content/KnihovnaLouda",
+      "RelativePath": "uploads/AuthorPhotos/6e020d72-5cd3-4f80-9fa6-c07bc6bafd73_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped)#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vijkuu1g4z",
+      "Integrity": "18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\AuthorPhotos\\6e020d72-5cd3-4f80-9fa6-c07bc6bafd73_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg"
+    },
+    {
+      "Identity": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\72c6af2f-46ec-4aaa-917b-ef8541658e57_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "SourceId": "KnihovnaLouda",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\",
+      "BasePath": "_content/KnihovnaLouda",
+      "RelativePath": "uploads/AuthorPhotos/72c6af2f-46ec-4aaa-917b-ef8541658e57_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped)#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vijkuu1g4z",
+      "Integrity": "18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\AuthorPhotos\\72c6af2f-46ec-4aaa-917b-ef8541658e57_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg"
+    },
+    {
+      "Identity": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\793eca5e-5aec-45a5-ac10-9f2e97835884_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "SourceId": "KnihovnaLouda",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\",
+      "BasePath": "_content/KnihovnaLouda",
+      "RelativePath": "uploads/AuthorPhotos/793eca5e-5aec-45a5-ac10-9f2e97835884_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped)#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vijkuu1g4z",
+      "Integrity": "18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\AuthorPhotos\\793eca5e-5aec-45a5-ac10-9f2e97835884_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg"
+    },
+    {
       "Identity": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\930775a1-8a79-4d36-b4b8-7e8b7313a6b6_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg",
       "SourceId": "KnihovnaLouda",
       "SourceType": "Discovered",
@@ -2619,6 +2829,69 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\AuthorPhotos\\930775a1-8a79-4d36-b4b8-7e8b7313a6b6_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg"
+    },
+    {
+      "Identity": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\b165569a-93b2-4e3f-a63b-863c7c7da62f_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "SourceId": "KnihovnaLouda",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\",
+      "BasePath": "_content/KnihovnaLouda",
+      "RelativePath": "uploads/AuthorPhotos/b165569a-93b2-4e3f-a63b-863c7c7da62f_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped)#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vijkuu1g4z",
+      "Integrity": "18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\AuthorPhotos\\b165569a-93b2-4e3f-a63b-863c7c7da62f_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg"
+    },
+    {
+      "Identity": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\b2cec137-6abe-49ea-972b-77f39c5e1ea9_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "SourceId": "KnihovnaLouda",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\",
+      "BasePath": "_content/KnihovnaLouda",
+      "RelativePath": "uploads/AuthorPhotos/b2cec137-6abe-49ea-972b-77f39c5e1ea9_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped)#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vijkuu1g4z",
+      "Integrity": "18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\AuthorPhotos\\b2cec137-6abe-49ea-972b-77f39c5e1ea9_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg"
+    },
+    {
+      "Identity": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\dc48588b-948b-4ba0-9283-bba91c8eb633_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg",
+      "SourceId": "KnihovnaLouda",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\",
+      "BasePath": "_content/KnihovnaLouda",
+      "RelativePath": "uploads/AuthorPhotos/dc48588b-948b-4ba0-9283-bba91c8eb633_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ktois57kvh",
+      "Integrity": "2HG2vfUzqarXzSPQtrtfuv1hwIPs2J9vqGk5KENK6+A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\AuthorPhotos\\dc48588b-948b-4ba0-9283-bba91c8eb633_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg"
     },
     {
       "Identity": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\ebc87da9-ff31-4033-a47d-466bdea4fea6_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg",
@@ -2663,6 +2936,48 @@
       "OriginalItemSpec": "wwwroot\\uploads\\AuthorPhotos\\f02c5a57-695c-42cc-80dc-0f3734e9c7a8_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg"
     },
     {
+      "Identity": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\fc9fe2ec-2281-4d8d-aedc-bd78756c4e6d_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg",
+      "SourceId": "KnihovnaLouda",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\",
+      "BasePath": "_content/KnihovnaLouda",
+      "RelativePath": "uploads/AuthorPhotos/fc9fe2ec-2281-4d8d-aedc-bd78756c4e6d_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ktois57kvh",
+      "Integrity": "2HG2vfUzqarXzSPQtrtfuv1hwIPs2J9vqGk5KENK6+A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\AuthorPhotos\\fc9fe2ec-2281-4d8d-aedc-bd78756c4e6d_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg"
+    },
+    {
+      "Identity": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\BooksPhotos\\01d05dc3-b42b-4b55-a7d8-256d1489f031_dasenka.jpg",
+      "SourceId": "KnihovnaLouda",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\",
+      "BasePath": "_content/KnihovnaLouda",
+      "RelativePath": "uploads/BooksPhotos/01d05dc3-b42b-4b55-a7d8-256d1489f031_dasenka#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vt1c39m0fj",
+      "Integrity": "vWT0BKh4rzXGf5HcBU8camkRIWNZgOxT/ktiWnEHfOY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\BooksPhotos\\01d05dc3-b42b-4b55-a7d8-256d1489f031_dasenka.jpg"
+    },
+    {
       "Identity": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\BooksPhotos\\62b80568-c48f-4718-af66-22d10249cf68_cover_202413.jpg",
       "SourceId": "KnihovnaLouda",
       "SourceType": "Discovered",
@@ -2684,12 +2999,12 @@
       "OriginalItemSpec": "wwwroot\\uploads\\BooksPhotos\\62b80568-c48f-4718-af66-22d10249cf68_cover_202413.jpg"
     },
     {
-      "Identity": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\BooksPhotos\\ade9c041-f8c9-4075-b207-358a83f2a924_dasenka.jpg",
+      "Identity": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\BooksPhotos\\b27daf00-c409-4922-8611-2db593d89674_dasenka.jpg",
       "SourceId": "KnihovnaLouda",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\",
       "BasePath": "_content/KnihovnaLouda",
-      "RelativePath": "uploads/BooksPhotos/ade9c041-f8c9-4075-b207-358a83f2a924_dasenka#[.{fingerprint}]?.jpg",
+      "RelativePath": "uploads/BooksPhotos/b27daf00-c409-4922-8611-2db593d89674_dasenka#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2702,7 +3017,7 @@
       "Integrity": "vWT0BKh4rzXGf5HcBU8camkRIWNZgOxT/ktiWnEHfOY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\BooksPhotos\\ade9c041-f8c9-4075-b207-358a83f2a924_dasenka.jpg"
+      "OriginalItemSpec": "wwwroot\\uploads\\BooksPhotos\\b27daf00-c409-4922-8611-2db593d89674_dasenka.jpg"
     },
     {
       "Identity": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\BooksPhotos\\b8c390b2-a781-4b15-bb7a-60f9103ca848_cover_202413.jpg",
@@ -10074,6 +10389,334 @@
       ]
     },
     {
+      "Route": "uploads/AuthorPhotos/0b76095c-783d-4d20-b35d-291d5db324b4_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "AssetFile": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\0b76095c-783d-4d20-b35d-291d5db324b4_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "187177"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 22:59:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/AuthorPhotos/0b76095c-783d-4d20-b35d-291d5db324b4_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).vijkuu1g4z.jpg",
+      "AssetFile": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\0b76095c-783d-4d20-b35d-291d5db324b4_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "187177"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 22:59:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vijkuu1g4z"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/AuthorPhotos/0b76095c-783d-4d20-b35d-291d5db324b4_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/AuthorPhotos/12c91876-dbb6-41db-80ee-0887748c711a_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "AssetFile": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\12c91876-dbb6-41db-80ee-0887748c711a_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "187177"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 01:00:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/AuthorPhotos/12c91876-dbb6-41db-80ee-0887748c711a_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).vijkuu1g4z.jpg",
+      "AssetFile": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\12c91876-dbb6-41db-80ee-0887748c711a_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "187177"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 01:00:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vijkuu1g4z"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/AuthorPhotos/12c91876-dbb6-41db-80ee-0887748c711a_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/AuthorPhotos/199f9c80-d6b9-475e-ad51-a767e982036c_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "AssetFile": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\199f9c80-d6b9-475e-ad51-a767e982036c_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "187177"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 01:20:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/AuthorPhotos/199f9c80-d6b9-475e-ad51-a767e982036c_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).vijkuu1g4z.jpg",
+      "AssetFile": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\199f9c80-d6b9-475e-ad51-a767e982036c_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "187177"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 01:20:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vijkuu1g4z"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/AuthorPhotos/199f9c80-d6b9-475e-ad51-a767e982036c_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/AuthorPhotos/27d960b9-2481-4412-ad39-8f2087358983_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg",
+      "AssetFile": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\27d960b9-2481-4412-ad39-8f2087358983_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1381832"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2HG2vfUzqarXzSPQtrtfuv1hwIPs2J9vqGk5KENK6+A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 00:57:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2HG2vfUzqarXzSPQtrtfuv1hwIPs2J9vqGk5KENK6+A="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/AuthorPhotos/27d960b9-2481-4412-ad39-8f2087358983_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.ktois57kvh.jpg",
+      "AssetFile": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\27d960b9-2481-4412-ad39-8f2087358983_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1381832"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2HG2vfUzqarXzSPQtrtfuv1hwIPs2J9vqGk5KENK6+A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 00:57:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ktois57kvh"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/AuthorPhotos/27d960b9-2481-4412-ad39-8f2087358983_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2HG2vfUzqarXzSPQtrtfuv1hwIPs2J9vqGk5KENK6+A="
+        }
+      ]
+    },
+    {
       "Route": "uploads/AuthorPhotos/29f06755-aa26-489e-90ca-04dc13ed3039_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg",
       "AssetFile": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\29f06755-aa26-489e-90ca-04dc13ed3039_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg",
       "Selectors": [],
@@ -10156,6 +10799,498 @@
       ]
     },
     {
+      "Route": "uploads/AuthorPhotos/3c950371-9ded-4f68-ae68-e36545f01fb1_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "AssetFile": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\3c950371-9ded-4f68-ae68-e36545f01fb1_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "187177"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 01:00:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/AuthorPhotos/3c950371-9ded-4f68-ae68-e36545f01fb1_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).vijkuu1g4z.jpg",
+      "AssetFile": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\3c950371-9ded-4f68-ae68-e36545f01fb1_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "187177"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 01:00:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vijkuu1g4z"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/AuthorPhotos/3c950371-9ded-4f68-ae68-e36545f01fb1_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/AuthorPhotos/48c3fb45-ec18-49fc-924b-b384ba55ea10_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "AssetFile": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\48c3fb45-ec18-49fc-924b-b384ba55ea10_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "187177"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 01:02:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/AuthorPhotos/48c3fb45-ec18-49fc-924b-b384ba55ea10_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).vijkuu1g4z.jpg",
+      "AssetFile": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\48c3fb45-ec18-49fc-924b-b384ba55ea10_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "187177"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 01:02:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vijkuu1g4z"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/AuthorPhotos/48c3fb45-ec18-49fc-924b-b384ba55ea10_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/AuthorPhotos/65f6ab01-aaf4-44b9-ac9b-6897660f7975_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "AssetFile": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\65f6ab01-aaf4-44b9-ac9b-6897660f7975_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "187177"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 01:15:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/AuthorPhotos/65f6ab01-aaf4-44b9-ac9b-6897660f7975_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).vijkuu1g4z.jpg",
+      "AssetFile": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\65f6ab01-aaf4-44b9-ac9b-6897660f7975_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "187177"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 01:15:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vijkuu1g4z"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/AuthorPhotos/65f6ab01-aaf4-44b9-ac9b-6897660f7975_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/AuthorPhotos/6e020d72-5cd3-4f80-9fa6-c07bc6bafd73_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "AssetFile": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\6e020d72-5cd3-4f80-9fa6-c07bc6bafd73_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "187177"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 01:14:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/AuthorPhotos/6e020d72-5cd3-4f80-9fa6-c07bc6bafd73_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).vijkuu1g4z.jpg",
+      "AssetFile": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\6e020d72-5cd3-4f80-9fa6-c07bc6bafd73_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "187177"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 01:14:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vijkuu1g4z"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/AuthorPhotos/6e020d72-5cd3-4f80-9fa6-c07bc6bafd73_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/AuthorPhotos/72c6af2f-46ec-4aaa-917b-ef8541658e57_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "AssetFile": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\72c6af2f-46ec-4aaa-917b-ef8541658e57_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "187177"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 01:07:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/AuthorPhotos/72c6af2f-46ec-4aaa-917b-ef8541658e57_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).vijkuu1g4z.jpg",
+      "AssetFile": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\72c6af2f-46ec-4aaa-917b-ef8541658e57_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "187177"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 01:07:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vijkuu1g4z"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/AuthorPhotos/72c6af2f-46ec-4aaa-917b-ef8541658e57_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/AuthorPhotos/793eca5e-5aec-45a5-ac10-9f2e97835884_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "AssetFile": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\793eca5e-5aec-45a5-ac10-9f2e97835884_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "187177"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 01:10:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/AuthorPhotos/793eca5e-5aec-45a5-ac10-9f2e97835884_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).vijkuu1g4z.jpg",
+      "AssetFile": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\793eca5e-5aec-45a5-ac10-9f2e97835884_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "187177"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 01:10:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vijkuu1g4z"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/AuthorPhotos/793eca5e-5aec-45a5-ac10-9f2e97835884_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts="
+        }
+      ]
+    },
+    {
       "Route": "uploads/AuthorPhotos/930775a1-8a79-4d36-b4b8-7e8b7313a6b6_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg",
       "AssetFile": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\930775a1-8a79-4d36-b4b8-7e8b7313a6b6_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg",
       "Selectors": [],
@@ -10230,6 +11365,252 @@
         {
           "Name": "label",
           "Value": "uploads/AuthorPhotos/930775a1-8a79-4d36-b4b8-7e8b7313a6b6_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2HG2vfUzqarXzSPQtrtfuv1hwIPs2J9vqGk5KENK6+A="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/AuthorPhotos/b165569a-93b2-4e3f-a63b-863c7c7da62f_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "AssetFile": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\b165569a-93b2-4e3f-a63b-863c7c7da62f_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "187177"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 00:57:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/AuthorPhotos/b165569a-93b2-4e3f-a63b-863c7c7da62f_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).vijkuu1g4z.jpg",
+      "AssetFile": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\b165569a-93b2-4e3f-a63b-863c7c7da62f_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "187177"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 00:57:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vijkuu1g4z"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/AuthorPhotos/b165569a-93b2-4e3f-a63b-863c7c7da62f_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/AuthorPhotos/b2cec137-6abe-49ea-972b-77f39c5e1ea9_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "AssetFile": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\b2cec137-6abe-49ea-972b-77f39c5e1ea9_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "187177"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 01:16:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/AuthorPhotos/b2cec137-6abe-49ea-972b-77f39c5e1ea9_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).vijkuu1g4z.jpg",
+      "AssetFile": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\b2cec137-6abe-49ea-972b-77f39c5e1ea9_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "187177"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 01:16:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vijkuu1g4z"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/AuthorPhotos/b2cec137-6abe-49ea-972b-77f39c5e1ea9_Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-18WBeoRz2Mttr5WOy0TfYJbbVvy/Y/oCkbE62QTKhts="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/AuthorPhotos/dc48588b-948b-4ba0-9283-bba91c8eb633_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg",
+      "AssetFile": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\dc48588b-948b-4ba0-9283-bba91c8eb633_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1381832"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2HG2vfUzqarXzSPQtrtfuv1hwIPs2J9vqGk5KENK6+A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 01:00:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2HG2vfUzqarXzSPQtrtfuv1hwIPs2J9vqGk5KENK6+A="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/AuthorPhotos/dc48588b-948b-4ba0-9283-bba91c8eb633_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.ktois57kvh.jpg",
+      "AssetFile": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\dc48588b-948b-4ba0-9283-bba91c8eb633_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1381832"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2HG2vfUzqarXzSPQtrtfuv1hwIPs2J9vqGk5KENK6+A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 01:00:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ktois57kvh"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/AuthorPhotos/dc48588b-948b-4ba0-9283-bba91c8eb633_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg"
         },
         {
           "Name": "integrity",
@@ -10402,6 +11783,170 @@
       ]
     },
     {
+      "Route": "uploads/AuthorPhotos/fc9fe2ec-2281-4d8d-aedc-bd78756c4e6d_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg",
+      "AssetFile": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\fc9fe2ec-2281-4d8d-aedc-bd78756c4e6d_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1381832"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2HG2vfUzqarXzSPQtrtfuv1hwIPs2J9vqGk5KENK6+A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 01:01:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2HG2vfUzqarXzSPQtrtfuv1hwIPs2J9vqGk5KENK6+A="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/AuthorPhotos/fc9fe2ec-2281-4d8d-aedc-bd78756c4e6d_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.ktois57kvh.jpg",
+      "AssetFile": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\AuthorPhotos\\fc9fe2ec-2281-4d8d-aedc-bd78756c4e6d_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1381832"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2HG2vfUzqarXzSPQtrtfuv1hwIPs2J9vqGk5KENK6+A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 01:01:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ktois57kvh"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/AuthorPhotos/fc9fe2ec-2281-4d8d-aedc-bd78756c4e6d_Karel_Čapek_podepisuje_první_výtisky_Povětroně,_Pestrý_týden_27.1.1934.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2HG2vfUzqarXzSPQtrtfuv1hwIPs2J9vqGk5KENK6+A="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/BooksPhotos/01d05dc3-b42b-4b55-a7d8-256d1489f031_dasenka.jpg",
+      "AssetFile": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\BooksPhotos\\01d05dc3-b42b-4b55-a7d8-256d1489f031_dasenka.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37650"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vWT0BKh4rzXGf5HcBU8camkRIWNZgOxT/ktiWnEHfOY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 01:03:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vWT0BKh4rzXGf5HcBU8camkRIWNZgOxT/ktiWnEHfOY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/BooksPhotos/01d05dc3-b42b-4b55-a7d8-256d1489f031_dasenka.vt1c39m0fj.jpg",
+      "AssetFile": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\BooksPhotos\\01d05dc3-b42b-4b55-a7d8-256d1489f031_dasenka.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37650"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vWT0BKh4rzXGf5HcBU8camkRIWNZgOxT/ktiWnEHfOY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 01:03:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vt1c39m0fj"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/BooksPhotos/01d05dc3-b42b-4b55-a7d8-256d1489f031_dasenka.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vWT0BKh4rzXGf5HcBU8camkRIWNZgOxT/ktiWnEHfOY="
+        }
+      ]
+    },
+    {
       "Route": "uploads/BooksPhotos/62b80568-c48f-4718-af66-22d10249cf68_cover_202413.htdch0k5k0.jpg",
       "AssetFile": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\BooksPhotos\\62b80568-c48f-4718-af66-22d10249cf68_cover_202413.jpg",
       "Selectors": [],
@@ -10484,8 +12029,8 @@
       ]
     },
     {
-      "Route": "uploads/BooksPhotos/ade9c041-f8c9-4075-b207-358a83f2a924_dasenka.jpg",
-      "AssetFile": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\BooksPhotos\\ade9c041-f8c9-4075-b207-358a83f2a924_dasenka.jpg",
+      "Route": "uploads/BooksPhotos/b27daf00-c409-4922-8611-2db593d89674_dasenka.jpg",
+      "AssetFile": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\BooksPhotos\\b27daf00-c409-4922-8611-2db593d89674_dasenka.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10506,7 +12051,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 22:49:35 GMT"
+          "Value": "Thu, 23 Jan 2025 01:03:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10521,8 +12066,8 @@
       ]
     },
     {
-      "Route": "uploads/BooksPhotos/ade9c041-f8c9-4075-b207-358a83f2a924_dasenka.vt1c39m0fj.jpg",
-      "AssetFile": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\BooksPhotos\\ade9c041-f8c9-4075-b207-358a83f2a924_dasenka.jpg",
+      "Route": "uploads/BooksPhotos/b27daf00-c409-4922-8611-2db593d89674_dasenka.vt1c39m0fj.jpg",
+      "AssetFile": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\wwwroot\\uploads\\BooksPhotos\\b27daf00-c409-4922-8611-2db593d89674_dasenka.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10543,7 +12088,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 22:49:35 GMT"
+          "Value": "Thu, 23 Jan 2025 01:03:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10557,7 +12102,7 @@
         },
         {
           "Name": "label",
-          "Value": "uploads/BooksPhotos/ade9c041-f8c9-4075-b207-358a83f2a924_dasenka.jpg"
+          "Value": "uploads/BooksPhotos/b27daf00-c409-4922-8611-2db593d89674_dasenka.jpg"
         },
         {
           "Name": "integrity",

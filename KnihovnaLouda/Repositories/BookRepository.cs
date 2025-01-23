@@ -30,10 +30,10 @@ namespace KnihovnaLouda.Repositories
             await _context.SaveChangesAsync();
         }
 
-        public async Task UpdateAsync(Book book)
+        public async Task<bool> UpdateAsync(Book book)
         {
             _context.Books.Update(book);
-            await _context.SaveChangesAsync();
+            return await _context.SaveChangesAsync() > 0;
         }
 
         public async Task DeleteAsync(int id)

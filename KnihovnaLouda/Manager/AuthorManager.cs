@@ -8,10 +8,13 @@ namespace KnihovnaLouda.Manager
     public class AuthorManager : IAuthorManager
     {
         private readonly IAuthorRepository _authorRepository;
+        private readonly IPhotoManager _photoManager;   
 
-        public AuthorManager(IAuthorRepository authorRepository)
+        public AuthorManager(IAuthorRepository authorRepository, IPhotoManager photoManager)
         {
             _authorRepository = authorRepository;
+            _photoManager = photoManager;
+
         }
 
         public async Task<List<Author>> GetAllAuthorsAsync()
@@ -35,16 +38,24 @@ namespace KnihovnaLouda.Manager
             return true;
         }
 
-        public async Task<bool> UpdateAuthorAsync(Author author)
+        public async Task<bool> UpdateAuthorAsync(Author author, IFormFile? photo)
         {
-            if (author == null || author.Id <= 0)
+            var existingAuthor = await _authorRepository.GetByIdAsync(author.Id);
+            if (existingAuthor == null) return false;
+
+            if (photo != null)
             {
-                return false;
+                _photoManager.DeletePhoto(existingAuthor.PhotoPath);
+                author.PhotoPath = await _photoManager.SavePhotoAsync(photo, "AuthorPhotos");
             }
 
-            await _authorRepository.UpdateAsync(author);
-            return true;
+            existingAuthor.Name = author.Name;
+            existingAuthor.Surname = author.Surname;
+            existingAuthor.PhotoPath = author.PhotoPath;
+
+            return await _authorRepository.UpdateAsync(existingAuthor);
         }
+
 
         public async Task<bool> DeleteAuthorAsync(int id)
         {

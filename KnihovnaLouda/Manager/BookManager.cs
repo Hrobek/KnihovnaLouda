@@ -8,10 +8,12 @@ namespace KnihovnaLouda.Manager
     public class BookManager : IBookManager
     {
         private readonly IBookRepository _bookRepository;
-
-        public BookManager(IBookRepository bookRepository)
+        private readonly IPhotoManager _photoManager;
+        public BookManager(IBookRepository bookRepository, IPhotoManager photoManager)
         {
             _bookRepository = bookRepository;
+            _photoManager = photoManager;
+
         }
 
         public async Task<List<Book>> GetAllBooksAsync()
@@ -35,15 +37,29 @@ namespace KnihovnaLouda.Manager
             return true;
         }
 
-        public async Task<bool> UpdateBookAsync(Book book)
+        public async Task<bool> UpdateBookAsync(Book book, IFormFile? photo)
         {
-            if (book == null || book.Id <= 0)
+            var existingBook = await _bookRepository.GetByIdAsync(book.Id);
+            if (existingBook == null) return false;
+
+            if (photo != null)
             {
-                return false;
+                _photoManager.DeletePhoto(existingBook.PhotoPath);
+                book.PhotoPath = await _photoManager.SavePhotoAsync(photo, "BooksPhotos");
+            }
+            else
+            {
+                book.PhotoPath = existingBook.PhotoPath;
             }
 
-            await _bookRepository.UpdateAsync(book);
-            return true;
+       
+            existingBook.Title = book.Title;
+            existingBook.Description = book.Description;
+            existingBook.Published = book.Published;
+            existingBook.AuthorId = book.AuthorId;
+            existingBook.PhotoPath = book.PhotoPath;
+
+            return await _bookRepository.UpdateAsync(existingBook);
         }
 
         public async Task<bool> DeleteBookAsync(int id)

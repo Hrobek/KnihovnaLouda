@@ -3,88 +3,44 @@
   "WorkspaceRootPath": "D:\\Programko\\AspNet\\KnihovnaLouda\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|d:\\programko\\aspnet\\knihovnalouda\\knihovnalouda\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|solutionrelative:knihovnalouda\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|d:\\programko\\aspnet\\knihovnalouda\\knihovnalouda\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|solutionrelative:knihovnalouda\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|d:\\programko\\aspnet\\knihovnalouda\\knihovnalouda\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|solutionrelative:knihovnalouda\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|d:\\programko\\aspnet\\knihovnalouda\\knihovnalouda\\views\\authors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|solutionrelative:knihovnalouda\\views\\authors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|d:\\programko\\aspnet\\knihovnalouda\\knihovnalouda\\views\\authors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|solutionrelative:knihovnalouda\\views\\authors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|d:\\programko\\aspnet\\knihovnalouda\\knihovnalouda\\manager\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|solutionrelative:knihovnalouda\\manager\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|d:\\programko\\aspnet\\knihovnalouda\\knihovnalouda\\interfaces\\imanager\\ibookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|solutionrelative:knihovnalouda\\interfaces\\imanager\\ibookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|d:\\programko\\aspnet\\knihovnalouda\\knihovnalouda\\interfaces\\irepository\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|solutionrelative:knihovnalouda\\interfaces\\irepository\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|d:\\programko\\aspnet\\knihovnalouda\\knihovnalouda\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|solutionrelative:knihovnalouda\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|d:\\programko\\aspnet\\knihovnalouda\\knihovnalouda\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|solutionrelative:knihovnalouda\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|d:\\programko\\aspnet\\knihovnalouda\\knihovnalouda\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|solutionrelative:knihovnalouda\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|d:\\programko\\aspnet\\knihovnalouda\\knihovnalouda\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|solutionrelative:knihovnalouda\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|d:\\programko\\aspnet\\knihovnalouda\\knihovnalouda\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|solutionrelative:knihovnalouda\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|d:\\programko\\aspnet\\knihovnalouda\\knihovnalouda\\views\\reservations\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|solutionrelative:knihovnalouda\\views\\reservations\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|d:\\programko\\aspnet\\knihovnalouda\\knihovnalouda\\views\\authors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|solutionrelative:knihovnalouda\\views\\authors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|d:\\programko\\aspnet\\knihovnalouda\\knihovnalouda\\views\\authors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|solutionrelative:knihovnalouda\\views\\authors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|d:\\programko\\aspnet\\knihovnalouda\\knihovnalouda\\interfaces\\irepository\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|solutionrelative:knihovnalouda\\interfaces\\irepository\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|d:\\programko\\aspnet\\knihovnalouda\\knihovnalouda\\manager\\authormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|solutionrelative:knihovnalouda\\manager\\authormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|d:\\programko\\aspnet\\knihovnalouda\\knihovnalouda\\repositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|solutionrelative:knihovnalouda\\repositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|d:\\programko\\aspnet\\knihovnalouda\\knihovnalouda\\views\\authors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|solutionrelative:knihovnalouda\\views\\authors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|d:\\programko\\aspnet\\knihovnalouda\\knihovnalouda\\interfaces\\imanager\\ibookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|solutionrelative:knihovnalouda\\interfaces\\imanager\\ibookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|d:\\programko\\aspnet\\knihovnalouda\\knihovnalouda\\interfaces\\irepository\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|solutionrelative:knihovnalouda\\interfaces\\irepository\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|d:\\programko\\aspnet\\knihovnalouda\\knihovnalouda\\interfaces\\imanager\\iauthormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|solutionrelative:knihovnalouda\\interfaces\\imanager\\iauthormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|d:\\programko\\aspnet\\knihovnalouda\\knihovnalouda\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|solutionrelative:knihovnalouda\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|d:\\programko\\aspnet\\knihovnalouda\\knihovnalouda\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|solutionrelative:knihovnalouda\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|d:\\programko\\aspnet\\knihovnalouda\\knihovnalouda\\repositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|solutionrelative:knihovnalouda\\repositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|d:\\programko\\aspnet\\knihovnalouda\\knihovnalouda\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|solutionrelative:knihovnalouda\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|d:\\programko\\aspnet\\knihovnalouda\\knihovnalouda\\manager\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{708422A2-851A-4CA8-8BEE-39833A7721B6}|KnihovnaLouda\\KnihovnaLouda.csproj|solutionrelative:knihovnalouda\\manager\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -94,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -106,282 +62,134 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Views\\Reservations\\Details.cshtml",
-              "RelativeDocumentMoniker": "KnihovnaLouda\\Views\\Reservations\\Details.cshtml",
-              "ToolTip": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Views\\Reservations\\Details.cshtml",
-              "RelativeToolTip": "KnihovnaLouda\\Views\\Reservations\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-22T22:50:37.885Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Views\\Books\\Details.cshtml",
-              "RelativeDocumentMoniker": "KnihovnaLouda\\Views\\Books\\Details.cshtml",
-              "ToolTip": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Views\\Books\\Details.cshtml",
-              "RelativeToolTip": "KnihovnaLouda\\Views\\Books\\Details.cshtml",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAMwCkAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-22T22:50:04.657Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Views\\Books\\Index.cshtml",
-              "RelativeDocumentMoniker": "KnihovnaLouda\\Views\\Books\\Index.cshtml",
-              "ToolTip": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Views\\Books\\Index.cshtml",
-              "RelativeToolTip": "KnihovnaLouda\\Views\\Books\\Index.cshtml",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAEwCcAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-22T22:49:54.74Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Views\\Books\\Create.cshtml",
-              "RelativeDocumentMoniker": "KnihovnaLouda\\Views\\Books\\Create.cshtml",
-              "ToolTip": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Views\\Books\\Create.cshtml",
-              "RelativeToolTip": "KnihovnaLouda\\Views\\Books\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-22T22:49:46.872Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Views\\Authors\\Index.cshtml",
-              "RelativeDocumentMoniker": "KnihovnaLouda\\Views\\Authors\\Index.cshtml",
-              "ToolTip": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Views\\Authors\\Index.cshtml",
-              "RelativeToolTip": "KnihovnaLouda\\Views\\Authors\\Index.cshtml",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAEwCMAAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-22T22:48:59.782Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Views\\Authors\\Create.cshtml",
-              "RelativeDocumentMoniker": "KnihovnaLouda\\Views\\Authors\\Create.cshtml",
-              "ToolTip": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Views\\Authors\\Create.cshtml",
-              "RelativeToolTip": "KnihovnaLouda\\Views\\Authors\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-22T22:35:31.9Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Views\\Authors\\Edit.cshtml",
               "RelativeDocumentMoniker": "KnihovnaLouda\\Views\\Authors\\Edit.cshtml",
               "ToolTip": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Views\\Authors\\Edit.cshtml",
               "RelativeToolTip": "KnihovnaLouda\\Views\\Authors\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-22T22:07:03.59Z",
+              "WhenOpened": "2025-01-23T01:21:22.984Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "IAuthorManager.cs",
-              "DocumentMoniker": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Interfaces\\IManager\\IAuthorManager.cs",
-              "RelativeDocumentMoniker": "KnihovnaLouda\\Interfaces\\IManager\\IAuthorManager.cs",
-              "ToolTip": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Interfaces\\IManager\\IAuthorManager.cs",
-              "RelativeToolTip": "KnihovnaLouda\\Interfaces\\IManager\\IAuthorManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "KnihovnaLouda\\Repositories\\BookRepository.cs",
+              "ToolTip": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "KnihovnaLouda\\Repositories\\BookRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T22:06:24.221Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T01:04:13.463Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "AuthorManager.cs",
-              "DocumentMoniker": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Manager\\AuthorManager.cs",
-              "RelativeDocumentMoniker": "KnihovnaLouda\\Manager\\AuthorManager.cs",
-              "ToolTip": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Manager\\AuthorManager.cs",
-              "RelativeToolTip": "KnihovnaLouda\\Manager\\AuthorManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCIAAAAYAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "BookManager.cs",
+              "DocumentMoniker": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Manager\\BookManager.cs",
+              "RelativeDocumentMoniker": "KnihovnaLouda\\Manager\\BookManager.cs",
+              "ToolTip": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Manager\\BookManager.cs",
+              "RelativeToolTip": "KnihovnaLouda\\Manager\\BookManager.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wDoAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T22:06:17.906Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T21:27:08.795Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "IAuthorRepository.cs",
-              "DocumentMoniker": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Interfaces\\IRepository\\IAuthorRepository.cs",
-              "RelativeDocumentMoniker": "KnihovnaLouda\\Interfaces\\IRepository\\IAuthorRepository.cs",
-              "ToolTip": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Interfaces\\IRepository\\IAuthorRepository.cs",
-              "RelativeToolTip": "KnihovnaLouda\\Interfaces\\IRepository\\IAuthorRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "KnihovnaLouda\\Controllers\\BooksController.cs",
+              "ToolTip": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "KnihovnaLouda\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAqwFwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T22:37:22.565Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T21:00:48.801Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Views\\Authors\\Details.cshtml",
-              "RelativeDocumentMoniker": "KnihovnaLouda\\Views\\Authors\\Details.cshtml",
-              "ToolTip": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Views\\Authors\\Details.cshtml",
-              "RelativeToolTip": "KnihovnaLouda\\Views\\Authors\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-22T22:04:21.117Z",
+              "DocumentIndex": 3,
+              "Title": "IBookManager.cs",
+              "DocumentMoniker": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Interfaces\\IManager\\IBookManager.cs",
+              "RelativeDocumentMoniker": "KnihovnaLouda\\Interfaces\\IManager\\IBookManager.cs",
+              "ToolTip": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Interfaces\\IManager\\IBookManager.cs",
+              "RelativeToolTip": "KnihovnaLouda\\Interfaces\\IManager\\IBookManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T01:17:15.321Z",
               "EditorCaption": ""
             }
           ]
         },
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ReservationsController.cs",
-              "DocumentMoniker": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Controllers\\ReservationsController.cs",
-              "RelativeDocumentMoniker": "KnihovnaLouda\\Controllers\\ReservationsController.cs",
-              "ToolTip": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Controllers\\ReservationsController.cs",
-              "RelativeToolTip": "KnihovnaLouda\\Controllers\\ReservationsController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "IAuthorRepository.cs",
+              "DocumentMoniker": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Interfaces\\IRepository\\IAuthorRepository.cs",
+              "RelativeDocumentMoniker": "KnihovnaLouda\\Interfaces\\IRepository\\IAuthorRepository.cs",
+              "ToolTip": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Interfaces\\IRepository\\IAuthorRepository.cs",
+              "RelativeToolTip": "KnihovnaLouda\\Interfaces\\IRepository\\IAuthorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T22:50:59.998Z",
+              "WhenOpened": "2025-01-23T01:17:29.369Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
+              "Title": "AuthorRepository.cs",
+              "DocumentMoniker": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Repositories\\AuthorRepository.cs",
+              "RelativeDocumentMoniker": "KnihovnaLouda\\Repositories\\AuthorRepository.cs",
+              "ToolTip": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Repositories\\AuthorRepository.cs",
+              "RelativeToolTip": "KnihovnaLouda\\Repositories\\AuthorRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T00:57:23.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "AuthorsController.cs",
               "DocumentMoniker": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Controllers\\AuthorsController.cs",
               "RelativeDocumentMoniker": "KnihovnaLouda\\Controllers\\AuthorsController.cs",
               "ToolTip": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Controllers\\AuthorsController.cs",
               "RelativeToolTip": "KnihovnaLouda\\Controllers\\AuthorsController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAiwC0AAABBAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAApwF4AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-22T22:00:51.537Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "AuthorRepository.cs",
-              "DocumentMoniker": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Repositories\\AuthorRepository.cs",
-              "RelativeDocumentMoniker": "KnihovnaLouda\\Repositories\\AuthorRepository.cs",
-              "ToolTip": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Repositories\\AuthorRepository.cs",
-              "RelativeToolTip": "KnihovnaLouda\\Repositories\\AuthorRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T22:36:53.086Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Author.cs",
-              "DocumentMoniker": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Models\\Author.cs",
-              "RelativeDocumentMoniker": "KnihovnaLouda\\Models\\Author.cs",
-              "ToolTip": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Models\\Author.cs",
-              "RelativeToolTip": "KnihovnaLouda\\Models\\Author.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Title": "AuthorManager.cs",
+              "DocumentMoniker": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Manager\\AuthorManager.cs",
+              "RelativeDocumentMoniker": "KnihovnaLouda\\Manager\\AuthorManager.cs",
+              "ToolTip": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Manager\\AuthorManager.cs",
+              "RelativeToolTip": "KnihovnaLouda\\Manager\\AuthorManager.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T22:33:17.842Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IBookRepository.cs",
-              "DocumentMoniker": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Interfaces\\IRepository\\IBookRepository.cs",
-              "RelativeDocumentMoniker": "KnihovnaLouda\\Interfaces\\IRepository\\IBookRepository.cs",
-              "ToolTip": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Interfaces\\IRepository\\IBookRepository.cs",
-              "RelativeToolTip": "KnihovnaLouda\\Interfaces\\IRepository\\IBookRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T21:52:32.62Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IBookManager.cs",
-              "DocumentMoniker": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Interfaces\\IManager\\IBookManager.cs",
-              "RelativeDocumentMoniker": "KnihovnaLouda\\Interfaces\\IManager\\IBookManager.cs",
-              "ToolTip": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Interfaces\\IManager\\IBookManager.cs",
-              "RelativeToolTip": "KnihovnaLouda\\Interfaces\\IManager\\IBookManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T21:47:06.215Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BookRepository.cs",
-              "DocumentMoniker": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Repositories\\BookRepository.cs",
-              "RelativeDocumentMoniker": "KnihovnaLouda\\Repositories\\BookRepository.cs",
-              "ToolTip": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Repositories\\BookRepository.cs",
-              "RelativeToolTip": "KnihovnaLouda\\Repositories\\BookRepository.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAwwDcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T21:27:58.426Z",
+              "WhenOpened": "2025-01-22T22:06:17.906Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "BookManager.cs",
-              "DocumentMoniker": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Manager\\BookManager.cs",
-              "RelativeDocumentMoniker": "KnihovnaLouda\\Manager\\BookManager.cs",
-              "ToolTip": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Manager\\BookManager.cs",
-              "RelativeToolTip": "KnihovnaLouda\\Manager\\BookManager.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAIwEIAAAAJAAAAAAAAAA==",
+              "Title": "IAuthorManager.cs",
+              "DocumentMoniker": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Interfaces\\IManager\\IAuthorManager.cs",
+              "RelativeDocumentMoniker": "KnihovnaLouda\\Interfaces\\IManager\\IAuthorManager.cs",
+              "ToolTip": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Interfaces\\IManager\\IAuthorManager.cs",
+              "RelativeToolTip": "KnihovnaLouda\\Interfaces\\IManager\\IAuthorManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T21:27:08.795Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BooksController.cs",
-              "DocumentMoniker": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Controllers\\BooksController.cs",
-              "RelativeDocumentMoniker": "KnihovnaLouda\\Controllers\\BooksController.cs",
-              "ToolTip": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Controllers\\BooksController.cs",
-              "RelativeToolTip": "KnihovnaLouda\\Controllers\\BooksController.cs",
-              "ViewState": "AgIAAGsAAAAAAAAAAAAgwIgAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T21:00:48.801Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Views\\Books\\Edit.cshtml",
-              "RelativeDocumentMoniker": "KnihovnaLouda\\Views\\Books\\Edit.cshtml",
-              "ToolTip": "D:\\Programko\\AspNet\\KnihovnaLouda\\KnihovnaLouda\\Views\\Books\\Edit.cshtml",
-              "RelativeToolTip": "KnihovnaLouda\\Views\\Books\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-22T21:42:57.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T01:06:57.235Z"
             }
           ]
         }

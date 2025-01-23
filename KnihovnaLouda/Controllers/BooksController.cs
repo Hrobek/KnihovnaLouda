@@ -95,10 +95,7 @@ namespace KnihovnaLouda.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, Book book, IFormFile photo)
         {
-            if (id != book.Id)
-            {
-                return NotFound();
-            }
+            if (id != book.Id) return NotFound();
 
             if (!ModelState.IsValid)
             {
@@ -106,58 +103,16 @@ namespace KnihovnaLouda.Controllers
                 return View(book);
             }
 
-            var existingBook = await _bookManager.GetBookByIdAsync(id);
-            if (existingBook == null)
+            bool success = await _bookManager.UpdateBookAsync(book, photo);
+            if (!success)
             {
-                return NotFound();
-            }
-
-            // Pokud je nový obrázek, smažeme starý a přidáme nový
-            if (photo != null)
-            {
-                _photoManager.DeletePhoto(existingBook.PhotoPath);
-
-                string photoPath = await _photoManager.SavePhotoAsync(photo, "BooksPhotos");
-                book.PhotoPath = photoPath;
-            }
-            else
-            {
-                // Pokud není nový obrázek, zachováme ten původní
-                book.PhotoPath = existingBook.PhotoPath;
-            }
-
-            // Aktualizace existující knihy
-            existingBook.Title = book.Title;
-            existingBook.Description = book.Description;
-            existingBook.Published = book.Published;
-            existingBook.AuthorId = book.AuthorId;
-            existingBook.PhotoPath = book.PhotoPath; // Použijeme novou hodnotu fotky
-
-            // Aktualizace knihy v databázi
-            try
-            {
-                bool success = await _bookManager.UpdateBookAsync(existingBook);
-                if (!success)
-                {
-                    ViewBag.Authors = await _bookManager.GetAllAuthorsAsync();
-
-                    return View(book);
-                }
-            }
-            catch (DbUpdateConcurrencyException)
-            {
-                if (!await _bookManager.ExistsAsync(book.Id))
-                {
-                    return NotFound();
-                }
-                else
-                {
-                    throw;
-                }
+                ViewBag.Authors = new SelectList(await _bookManager.GetAllAuthorsAsync(), "Id", "Name", book.AuthorId);
+                return View(book);
             }
 
             return RedirectToAction(nameof(Index));
         }
+
 
 
         public async Task<IActionResult> Delete(int? id)

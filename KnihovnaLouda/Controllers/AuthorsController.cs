@@ -83,51 +83,17 @@ public class AuthorsController : Controller
 
     [HttpPost]
     [ValidateAntiForgeryToken]
-    public async Task<IActionResult> Edit(int id, [Bind("Id,Name")] Author author)
+    public async Task<IActionResult> Edit(int id, [Bind("Id,Name,Surname,PhotoPath")] Author author, IFormFile photo)
     {
-        if (id != author.Id)
-        {
-            return NotFound();
-        }
+        if (id != author.Id) return NotFound();
 
-        if (!ModelState.IsValid)
-        {
-            return View(author);
-        }
+        if (!ModelState.IsValid) return View(author);
 
-        var existingAuthor = await _authorManager.GetAuthorByIdAsync(id);
-        if (existingAuthor == null)
-        {
-            return NotFound();
-        }
-
-        // Aktualizace existujícího autora
-        existingAuthor.Name = author.Name;
-
-        // Uložení změn do databáze
-        try
-        {
-            bool success = await _authorManager.UpdateAuthorAsync(existingAuthor);
-            if (!success)
-            {
-                return View(author);
-            }
-        }
-        catch (DbUpdateConcurrencyException)
-        {
-            if (!await _authorManager.ExistsAsync(author.Id))
-            {
-                return NotFound();
-            }
-            else
-            {
-                throw;
-            }
-        }
+        bool success = await _authorManager.UpdateAuthorAsync(author, photo);
+        if (!success) return View(author);
 
         return RedirectToAction(nameof(Index));
     }
-
 
     public async Task<IActionResult> Delete(int? id)
     {
