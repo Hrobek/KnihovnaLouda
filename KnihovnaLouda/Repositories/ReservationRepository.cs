@@ -42,6 +42,10 @@ namespace KnihovnaLouda.Repositories
             _context.Reservations.Add(reservation);
             await _context.SaveChangesAsync();
         }
+        public async Task<Book?> GetBookByIdAsync(int id)
+        {
+            return await _context.Books.FindAsync(id);
+        }
     }
 
 }

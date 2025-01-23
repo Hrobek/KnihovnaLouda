@@ -42,12 +42,14 @@ namespace KnihovnaLouda.Manager
             }
 
             reservation.UserId = reservation.UserId ?? userId;
-            var book = await _reservationRepository.GetByIdAsync(reservation.BookId);
+            var book = await _reservationRepository.GetBookByIdAsync(reservation.BookId);
 
             if (book == null)
             {
                 return false;
             }
+
+
 
             await _reservationRepository.AddAsync(reservation);
             return true;

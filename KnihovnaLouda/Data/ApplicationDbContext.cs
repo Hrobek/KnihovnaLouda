@@ -15,12 +15,12 @@ namespace KnihovnaLouda.Data
         {
             base.OnModelCreating(modelBuilder);
 
-            // Explicitní definice cizího klíče
             modelBuilder.Entity<Book>()
                 .HasOne(b => b.Author)
-                .WithMany(a => a.Books)  // Pokud Author může mít více Books
+                .WithMany(a => a.Books) 
                 .HasForeignKey(b => b.AuthorId)
-                .OnDelete(DeleteBehavior.Cascade); // Nebo jiný DeleteBehavior podle potřeby
+                .OnDelete(DeleteBehavior.Cascade);
+
         }
 
         public DbSet<KnihovnaLouda.Models.Book> Books { get; set; } = default!;

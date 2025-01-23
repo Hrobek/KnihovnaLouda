@@ -56,6 +56,8 @@ public class ReservationsController : Controller
         if (!success)
         {
             ModelState.AddModelError("", "Kniha již neexistuje.");
+            ViewBag.Books = new SelectList(await _reservationManager.GetAllBooksAsync(), "Id", "Title");
+            ViewBag.Users = await _reservationManager.GetAllUsersAsync();
             return View(reservation);
         }
 

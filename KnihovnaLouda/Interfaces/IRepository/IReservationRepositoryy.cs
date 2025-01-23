@@ -9,6 +9,7 @@ namespace KnihovnaLouda.Interfaces.IRepository
         Task<List<ApplicationsUser>> GetAllUsersAsync();
         Task<Reservation?> GetByIdAsync(int id);
         Task AddAsync(Reservation reservation);
+        Task<Book?> GetBookByIdAsync(int id);
     }
 
 }
